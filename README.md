@@ -5,9 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Cyberdragon;Python+Developer;AI%2FML+Enthusiast;Decide.+Commit.+Succeed." alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Open+for+Collaboration+" alt="Typing SVG" /></a>
 
   <br/>
 
@@ -76,7 +74,7 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=adityanamdeo-Pewpew&theme=dark&hide_border=false" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=adityanamdeo-Pewpew&label=Profile%20Views" />
+  <img src="https://komarev.com/ghpvc/?username=Aditya_Namdeo-Pewpew&label=Profile%20Views" />
 </p>
 
 

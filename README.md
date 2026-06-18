@@ -74,7 +74,7 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=adityanamdeo-Pewpew&theme=dark&hide_border=false" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Aditya_Namdeo-Pewpew&label=Profile%20Views" />
+  <img src="https://komarev.com/ghpvc/?username=adityanamdeo-Pewpew&label=Profile%20Views" />
 </p>
 
 

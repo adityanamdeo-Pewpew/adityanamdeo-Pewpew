@@ -73,26 +73,7 @@
   </p>
 </div>
 
-<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityanamdeo-Pewpew&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityanamdeo-Pewpew&theme=nord" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityanamdeo-Pewpew&theme=dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityanamdeo-Pewpew&theme=dark" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=adityanamdeo-Pewpew&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=adityanamdeo-Pewpew&label=Profile%20Views" />
-</p>
 
 
 <h3 align="center">🧠 LeetCode Progress</h3>

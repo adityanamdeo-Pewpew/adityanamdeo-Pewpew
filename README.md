@@ -58,11 +58,26 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityanamdeo-Pewpew/adityanamdeo-Pewpew/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityanamdeo-Pewpew/adityanamdeo-Pewpew/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adityanamdeo-Pewpew/adityanamdeo-Pewpew/output/snake.svg">
-</picture>
+<!-- Contribution Snake Animation (Dark / Light Mode) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityanamdeo-Pewpew/adityanamdeo-Pewpew/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityanamdeo-Pewpew/adityanamdeo-Pewpew/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adityanamdeo-Pewpew/adityanamdeo-Pewpew/output/snake.svg" width="100%">
+  </picture>
+</div>
+
+<br />
+
+<!-- Streak Stats & Activity Graph -->
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityanamdeo-Pewpew&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityanamdeo-Pewpew&theme=dracula&area=true" alt="activity-graph graph" />
+  </p>
+</div>
 
 
 

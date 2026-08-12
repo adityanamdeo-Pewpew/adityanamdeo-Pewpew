@@ -27,37 +27,46 @@
 
 ---
 
-### 💻 Tech Stack & Tools
+
+<h3 align="center">🛠️ Tech Stack & Skills</h3>
 
 <div align="center">
 
-  **Languages & Frontend**<br/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <h4>🚀 Languages & Backend</h4>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,spring,py,c,cpp,mysql,postgres,ts,js&theme=dark" alt="Backend & Languages" />
+    </a>
+  </p>
 
-  <br/><br/>
+  <br/>
 
-  **Backend & Databases**<br/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <h4>🌐 Frontend Development</h4>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Development" />
+    </a>
+  </p>
 
-  <br/><br/>
+  <br/>
 
-  **DevOps, Tools & Media**<br/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-005571?style=for-the-badge&logo=devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+  <h4>🛠️ IDEs, Tools & Platforms</h4>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,docker,linux,ubuntu,postman,maven&theme=dark" alt="IDEs and Tools" />
+    </a>
+  </p>
+
+  <br/>
+
+  <h4>🎬 Servers & Creative Tools</h4>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=apache,pr,canva&theme=dark" alt="Servers & Creative Tools" />
+    </a>
+  </p>
 
 </div>
-
----
 
 ### 📊 GitHub Activity & Stats
 
